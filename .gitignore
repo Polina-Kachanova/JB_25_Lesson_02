@@ -1,0 +1,9 @@
+.idea
+*.iml
+*.eml
+*.jar
+*.md
+*.docx
+*.class
+*.gitignore
+target
